@@ -15,5 +15,5 @@ Paper draft investigating approaches to increase the performance of analysing MD
 Supplementary material (scripts and documentation) for the paper Parallel Performance of Molecular Dynamics Trajectory Analysis, available at https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5789.
 
 ### [Molecular Counting & Single Molecule Localization Microscopy in Living Cells Using Deep-Learning](https://github.com/mkhoshle/PORTFOLIO.github.io/tree/master/Molecular%20Counting)
-
+In this project, I learned about stochastic models for parameter learning from the data, Monte Carlo methods, Hidden Markov Models with application to physical and biological sciences. I built a Bayesian non-parametric model for counting number of molecules on top of the cell by analyzing images from super-resolution microscopy.
 
