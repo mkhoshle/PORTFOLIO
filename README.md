@@ -9,4 +9,10 @@ people in accelerating energy transition and taking advantage of sustainable ene
 resources. In fact, people play an important role besides state-of-the-art technologies and
 business boosters. How could we get these insights? I used NLP to answer this question.
 
+### [Parallel Analysis of Molecular Dynamic Trajectories](https://github.com/mkhoshle/paper-hpc-py-parallel-mdanalysis)
+Paper draft investigating approaches to increase the performance of analysing MD trajectories with Python on HPC resources. 
+
+#### [Supplement Information](https://github.com/mkhoshle/supplement-hpc-py-parallel-mdanalysis)
+Supplementary material (scripts and documentation) for the paper Parallel Performance of Molecular Dynamics Trajectory Analysis, available at https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5789.
+
 
