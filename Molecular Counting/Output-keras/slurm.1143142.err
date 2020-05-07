@@ -1,0 +1,19 @@
+Using TensorFlow backend.
+WARNING:tensorflow:From /home/mkhoshle/miniconda3/envs/keras/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-29 12:58:31.234051: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-04-29 12:58:31.277492: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2399815000 Hz
+2019-04-29 12:58:31.342449: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x55bb79836950 executing computations on platform Host. Devices:
+2019-04-29 12:58:31.342987: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+WARNING:tensorflow:From /home/mkhoshle/miniconda3/envs/keras/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+/home/mkhoshle/miniconda3/envs/keras/lib/python3.6/site-packages/keras/callbacks.py:122: UserWarning: Method on_batch_end() is slow compared to the batch update (3.343577). Check your callbacks.
+  % delta_t_median)
+/home/mkhoshle/miniconda3/envs/keras/lib/python3.6/site-packages/keras/callbacks.py:122: UserWarning: Method on_batch_end() is slow compared to the batch update (3.471400). Check your callbacks.
+  % delta_t_median)
+Traceback (most recent call last):
+  File "/scratch/mkhoshle/dl_keras/Training.py", line 151, in <module>
+    df = pd.DataFrame(columns=('loss', 'loss_test'))  
+NameError: name 'pd' is not defined

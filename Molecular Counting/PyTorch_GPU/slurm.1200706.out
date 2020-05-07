@@ -1,0 +1,708 @@
+cg19-1
+SCHEDULER: cg19-1.agave.rc.asu.edu
+cuda:0
+cuda:0
+cuda:0
+Let's use 2 GPUs!
+=> Saving a new best
+0    loss:9.306934189796449 8.08277769904723
+=> Saving a new best
+1    loss:7.409698975086212 6.951600612803576
+=> Saving a new best
+2    loss:6.251456462144851 5.935566063233238
+=> Saving a new best
+3    loss:5.218763929605484 5.056760721665652
+=> Saving a new best
+4    loss:4.476590216755867 4.392107843715239
+=> Saving a new best
+5    loss:3.965080499649048 4.016262825797586
+=> Saving a new best
+6    loss:3.613189494609833 3.8505160693816323
+=> Saving a new best
+7    loss:3.3233795374631883 3.710958809776102
+=> Saving a new best
+8    loss:3.095352145433426 3.3682920575779387
+=> Saving a new best
+9    loss:2.9098391491174698 3.344660716898301
+=> Saving a new best
+10    loss:2.756860817074776 3.2415443920196694
+=> Saving a new best
+11    loss:2.630873988866806 3.113954671563949
+=> Saving a new best
+12    loss:2.496935415863991 3.0026824359587807
+=> Validation Accuracy did not improve
+13    loss:2.3957073885202407 3.086210781240208
+=> Saving a new best
+14    loss:2.2913998687267303 2.954803564969231
+=> Saving a new best
+15    loss:2.218157868385315 2.7680641865347795
+=> Validation Accuracy did not improve
+16    loss:2.12664331138134 2.7852026511003625
+=> Saving a new best
+17    loss:2.051487872004509 2.7050282572679976
+=> Validation Accuracy did not improve
+18    loss:1.9774927127361297 2.7751465723476305
+=> Saving a new best
+19    loss:1.9208946692943574 2.6829648209128147
+=> Saving a new best
+20    loss:1.8663621133565904 2.638587653318191
+=> Validation Accuracy did not improve
+21    loss:1.815958076119423 2.6428577810685265
+=> Saving a new best
+22    loss:1.7652543663978577 2.56695142659274
+=> Validation Accuracy did not improve
+23    loss:1.7278260436654092 2.5749628365358563
+=> Saving a new best
+24    loss:1.671168114244938 2.4806110820668263
+=> Validation Accuracy did not improve
+25    loss:1.6473260679841042 2.517012477558564
+=> Saving a new best
+26    loss:1.584056087732315 2.4514417769437165
+=> Saving a new best
+27    loss:1.5558786052465439 2.4003982945559494
+=> Validation Accuracy did not improve
+28    loss:1.5278202292323113 2.403486997048485
+=> Saving a new best
+29    loss:1.4952543544769288 2.347104618256105
+=> Validation Accuracy did not improve
+30    loss:1.4616569063067437 2.362156996115006
+=> Validation Accuracy did not improve
+31    loss:1.4313875809311867 2.4001126098122825
+=> Validation Accuracy did not improve
+32    loss:1.408349812924862 2.3599407985248666
+=> Saving a new best
+33    loss:1.3900668498873712 2.3392641907707254
+=> Validation Accuracy did not improve
+34    loss:1.3644619476795197 2.571468014130618
+=> Saving a new best
+35    loss:1.34557170689106 2.2899507966271058
+=> Validation Accuracy did not improve
+36    loss:1.3138279432058335 2.2984242235275514
+=> Saving a new best
+37    loss:1.3161884328722955 2.2772683944294156
+=> Validation Accuracy did not improve
+38    loss:1.280552291572094 2.2813388466197537
+=> Saving a new best
+39    loss:1.2731428968906402 2.265143401482526
+=> Saving a new best
+40    loss:1.2511993756890296 2.2508941767687465
+=> Saving a new best
+41    loss:1.2470927619934082 2.2358709962610255
+=> Validation Accuracy did not improve
+42    loss:1.2194866973161698 2.261352868003641
+=> Validation Accuracy did not improve
+43    loss:1.211615454852581 2.3404572838767965
+=> Saving a new best
+44    loss:1.2002391549944877 2.2099631954641903
+=> Validation Accuracy did not improve
+45    loss:1.1909835022687911 2.231195410942649
+=> Saving a new best
+46    loss:1.179020508825779 2.188782151370125
+=> Saving a new best
+47    loss:1.1623716300725937 2.1697353252115095
+=> Validation Accuracy did not improve
+48    loss:1.1602331018447876 2.2030097360916954
+=> Validation Accuracy did not improve
+49    loss:1.1448495236039162 2.19027894894707
+=> Validation Accuracy did not improve
+50    loss:1.1336446158587934 2.175711685960943
+=> Validation Accuracy did not improve
+51    loss:1.1274797309935094 2.1719889800178813
+=> Validation Accuracy did not improve
+52    loss:1.122701292037964 2.203541635192014
+=> Saving a new best
+53    loss:1.1109168088436128 2.1612363645737185
+=> Validation Accuracy did not improve
+54    loss:1.102238425165415 2.1661767232864295
+=> Saving a new best
+55    loss:1.0887896655499936 2.1544827108077187
+=> Saving a new best
+56    loss:1.0872385659813881 2.153589371691413
+=> Saving a new best
+57    loss:1.0839472667872907 2.1459543915355908
+=> Validation Accuracy did not improve
+58    loss:1.0815495210886001 2.1478322444752576
+=> Saving a new best
+59    loss:1.0744831956923009 2.138047077439048
+=> Saving a new best
+60    loss:1.055797891318798 2.1291893433759554
+=> Saving a new best
+61    loss:1.0653006114065646 2.1263467985041
+=> Validation Accuracy did not improve
+62    loss:1.055712905973196 2.1517118355807137
+=> Validation Accuracy did not improve
+63    loss:1.04535510212183 2.142391479589085
+=> Saving a new best
+64    loss:1.0357795888185501 2.12006988882381
+=> Validation Accuracy did not improve
+65    loss:1.0411191569268703 2.318223283252614
+=> Validation Accuracy did not improve
+66    loss:1.0320175325870513 2.1428315894488983
+=> Saving a new best
+67    loss:1.0203983810544015 2.0907225895692956
+=> Validation Accuracy did not improve
+68    loss:1.0148806935548782 2.100461008714482
+=> Validation Accuracy did not improve
+69    loss:1.0176229566335677 2.136817135275366
+=> Validation Accuracy did not improve
+70    loss:1.011031724512577 2.115144920859107
+=> Validation Accuracy did not improve
+71    loss:1.0099881529808044 2.1461449153920547
+=> Validation Accuracy did not improve
+72    loss:1.012603960186243 2.173241189456878
+Epoch    73: reducing learning rate of group 0 to 1.0000e-04.
+=> Validation Accuracy did not improve
+73    loss:1.0004052709043025 2.106887455292564
+=> Saving a new best
+74    loss:0.8911894197762013 1.9647442606043688
+=> Saving a new best
+75    loss:0.8512883426249027 1.9560210405186536
+=> Saving a new best
+76    loss:0.8392751333117485 1.950375275178389
+=> Saving a new best
+77    loss:0.8318793705105781 1.9453867100139353
+=> Validation Accuracy did not improve
+78    loss:0.8247042538225651 1.9478025570272761
+=> Validation Accuracy did not improve
+79    loss:0.8236665844917298 1.9563367156421436
+=> Validation Accuracy did not improve
+80    loss:0.818874059766531 1.9521853401061684
+=> Validation Accuracy did not improve
+81    loss:0.8173222623765469 1.9610425839449632
+=> Validation Accuracy did not improve
+82    loss:0.8157957214117051 1.9637234746453596
+Epoch    83: reducing learning rate of group 0 to 5.0000e-05.
+=> Validation Accuracy did not improve
+83    loss:0.8136860185861587 1.9638303008309022
+=> Validation Accuracy did not improve
+84    loss:0.8089145170152188 1.9585668957807163
+=> Validation Accuracy did not improve
+85    loss:0.8066327472031116 1.9642655148225672
+=> Validation Accuracy did not improve
+86    loss:0.8055984933674336 1.965582517379108
+=> Validation Accuracy did not improve
+87    loss:0.8045492461323738 1.9627611885733782
+=> Validation Accuracy did not improve
+88    loss:0.8044368648529053 1.9658668468342744
+=> Validation Accuracy did not improve
+89    loss:0.8030656982958317 1.9701653062341047
+=> Validation Accuracy did not improve
+90    loss:0.8025679157674313 1.9730860989361523
+=> Validation Accuracy did not improve
+91    loss:0.8021365295350552 1.974974892356179
+=> Validation Accuracy did not improve
+92    loss:0.8011270383000374 1.97823706221453
+=> Validation Accuracy did not improve
+93    loss:0.800162346214056 1.9755845943236732
+=> Validation Accuracy did not improve
+94    loss:0.7994941008090973 1.973845597256951
+=> Validation Accuracy did not improve
+95    loss:0.7983326800167561 1.9761211986847738
+=> Validation Accuracy did not improve
+96    loss:0.7986372642219067 1.9829409409334313
+=> Validation Accuracy did not improve
+97    loss:0.798548466861248 1.9805398267858167
+=> Validation Accuracy did not improve
+98    loss:0.7981602630019188 1.9833564267439
+=> Validation Accuracy did not improve
+99    loss:0.7976532861590385 1.9869270681697415
+=> Validation Accuracy did not improve
+100    loss:0.797038494348526 1.984471984088102
+=> Validation Accuracy did not improve
+101    loss:0.7966878220438958 1.99033072606765
+=> Validation Accuracy did not improve
+102    loss:0.7946412062644959 1.9851275586826915
+=> Validation Accuracy did not improve
+103    loss:0.795716386437416 1.9876476832252135
+=> Validation Accuracy did not improve
+104    loss:0.7960165548324585 1.993524105791102
+=> Validation Accuracy did not improve
+105    loss:0.7947028651833534 1.9943069296087172
+=> Validation Accuracy did not improve
+106    loss:0.7945764787495136 1.9924748160622336
+=> Validation Accuracy did not improve
+107    loss:0.7935540319979191 1.9914117541542664
+=> Validation Accuracy did not improve
+108    loss:0.7937482818961143 1.991808639490668
+=> Validation Accuracy did not improve
+109    loss:0.7938875849545002 1.9938932325750747
+=> Validation Accuracy did not improve
+110    loss:0.7932428665459156 1.9925642880526455
+=> Validation Accuracy did not improve
+111    loss:0.7945027735829353 1.997652086982115
+=> Validation Accuracy did not improve
+112    loss:0.7931268894672394 1.9953721360089307
+=> Validation Accuracy did not improve
+113    loss:0.7934563666582107 2.0064803712508255
+=> Validation Accuracy did not improve
+114    loss:0.7930149735510349 1.9977700716671458
+=> Validation Accuracy did not improve
+115    loss:0.791649381518364 1.9957410836602276
+=> Validation Accuracy did not improve
+116    loss:0.792425724118948 1.9991307022737308
+=> Validation Accuracy did not improve
+117    loss:0.792295705974102 2.002330915175657
+=> Validation Accuracy did not improve
+118    loss:0.7905695503950119 2.0010124489585346
+=> Validation Accuracy did not improve
+119    loss:0.7916492542624474 2.0034274595944
+=> Validation Accuracy did not improve
+120    loss:0.7912068665027618 2.005608839147231
+=> Validation Accuracy did not improve
+121    loss:0.7902404026687145 2.012057520489004
+=> Validation Accuracy did not improve
+122    loss:0.7907235397398472 2.0048564844590455
+=> Validation Accuracy did not improve
+123    loss:0.7912045902013779 2.00912822822836
+=> Validation Accuracy did not improve
+124    loss:0.7904960303008557 2.0067068108900346
+=> Validation Accuracy did not improve
+125    loss:0.7919788557291031 2.0043617410455794
+=> Validation Accuracy did not improve
+126    loss:0.7901021584868432 2.008697426255374
+=> Validation Accuracy did not improve
+127    loss:0.7896862044930458 2.0124556393546853
+=> Validation Accuracy did not improve
+128    loss:0.79014155164361 2.010805049682046
+=> Validation Accuracy did not improve
+129    loss:0.7898965752124787 2.0098537302272206
+=> Validation Accuracy did not improve
+130    loss:0.7899208453297615 2.0128308368876655
+=> Validation Accuracy did not improve
+131    loss:0.789232180416584 2.019879591656241
+=> Validation Accuracy did not improve
+132    loss:0.7895976150035858 2.0115263972052913
+=> Validation Accuracy did not improve
+133    loss:0.7890818536281586 2.0097933153417658
+=> Validation Accuracy did not improve
+134    loss:0.7893884758651257 2.012910348846313
+=> Validation Accuracy did not improve
+135    loss:0.7891642610728741 2.0142649832893817
+=> Validation Accuracy did not improve
+136    loss:0.787716104388237 2.014195975772837
+=> Validation Accuracy did not improve
+137    loss:0.7870592911541462 2.016762856493659
+=> Validation Accuracy did not improve
+138    loss:0.7893510505557061 2.01162368664767
+=> Validation Accuracy did not improve
+139    loss:0.7895844070613385 2.0153713232693184
+=> Validation Accuracy did not improve
+140    loss:0.7896138225495816 2.013857432227721
+=> Validation Accuracy did not improve
+141    loss:0.7891308134794235 2.0173069085666837
+=> Validation Accuracy did not improve
+142    loss:0.7892538471519948 2.0173391269490044
+=> Validation Accuracy did not improve
+143    loss:0.7883486187458039 2.025111008455409
+=> Validation Accuracy did not improve
+144    loss:0.7877259323000908 2.0206163057031477
+=> Validation Accuracy did not improve
+145    loss:0.7881312610208988 2.018604441760058
+=> Validation Accuracy did not improve
+146    loss:0.787531017959118 2.02307207699128
+=> Validation Accuracy did not improve
+147    loss:0.7873674939572811 2.0214519985219375
+=> Validation Accuracy did not improve
+148    loss:0.7883387543261051 2.0262295473068153
+=> Validation Accuracy did not improve
+149    loss:0.7870539477467537 2.021724899184895
+=> Validation Accuracy did not improve
+150    loss:0.7881060783565045 2.023187396360591
+=> Validation Accuracy did not improve
+151    loss:0.7882836563885212 2.02078420975629
+=> Validation Accuracy did not improve
+152    loss:0.787718512415886 2.0218686184143637
+=> Validation Accuracy did not improve
+153    loss:0.7874269641935826 2.0243516140443116
+=> Validation Accuracy did not improve
+154    loss:0.7859261514246464 2.022657127303873
+=> Validation Accuracy did not improve
+155    loss:0.7875088761746883 2.0239921049638228
+=> Validation Accuracy did not improve
+156    loss:0.7877815341949463 2.024441237118155
+=> Validation Accuracy did not improve
+157    loss:0.7874740441143513 2.0228816914685908
+=> Validation Accuracy did not improve
+158    loss:0.7874844925105572 2.022463791510638
+=> Validation Accuracy did not improve
+159    loss:0.7868693119287491 2.026700697480676
+=> Validation Accuracy did not improve
+160    loss:0.7859242583811283 2.0287146134810015
+=> Validation Accuracy did not improve
+161    loss:0.7871197915077209 2.030358184467662
+=> Validation Accuracy did not improve
+162    loss:0.7864804668724537 2.0276759193542806
+=> Validation Accuracy did not improve
+163    loss:0.786200106292963 2.02695685784447
+=> Validation Accuracy did not improve
+164    loss:0.787535856217146 2.026829370202865
+=> Validation Accuracy did not improve
+165    loss:0.78741459608078 2.0298680232807915
+=> Validation Accuracy did not improve
+166    loss:0.7864610451459885 2.0314957311446653
+=> Validation Accuracy did not improve
+167    loss:0.785994471013546 2.0276393182774917
+=> Validation Accuracy did not improve
+168    loss:0.7863389612734318 2.0289666257440087
+=> Validation Accuracy did not improve
+169    loss:0.7866727918386459 2.0336522412172613
+=> Validation Accuracy did not improve
+170    loss:0.7857904390990734 2.030997799679557
+=> Validation Accuracy did not improve
+171    loss:0.7853103432059289 2.029233371510225
+=> Validation Accuracy did not improve
+172    loss:0.7859158883988857 2.0310232588314117
+=> Validation Accuracy did not improve
+173    loss:0.7861226207017898 2.0332790938290684
+=> Validation Accuracy did not improve
+174    loss:0.7852110643684864 2.0327305086156264
+=> Validation Accuracy did not improve
+175    loss:0.7872060269117356 2.0301347849840785
+=> Validation Accuracy did not improve
+176    loss:0.7864665408432484 2.03394273704386
+=> Validation Accuracy did not improve
+177    loss:0.7858472134172917 2.030615179933966
+=> Validation Accuracy did not improve
+178    loss:0.7860488857328892 2.034781176138689
+=> Validation Accuracy did not improve
+179    loss:0.7856704224646092 2.0351645519389185
+=> Validation Accuracy did not improve
+180    loss:0.7847364535927772 2.037178999599926
+=> Validation Accuracy did not improve
+181    loss:0.7862147289514542 2.0350897758402287
+=> Validation Accuracy did not improve
+182    loss:0.7855498085916043 2.0369225192197504
+=> Validation Accuracy did not improve
+183    loss:0.7862586909532547 2.033715074075097
+=> Validation Accuracy did not improve
+184    loss:0.785647928416729 2.0356577163074103
+=> Validation Accuracy did not improve
+185    loss:0.7850132331252099 2.037661214563298
+=> Validation Accuracy did not improve
+186    loss:0.7857266986370087 2.03893553126942
+=> Validation Accuracy did not improve
+187    loss:0.7846875512599946 2.038958858041202
+=> Validation Accuracy did not improve
+188    loss:0.7846633952856064 2.038239544725673
+=> Validation Accuracy did not improve
+189    loss:0.7860348370671273 2.039262241858212
+=> Validation Accuracy did not improve
+190    loss:0.7861127281188965 2.0420490171820083
+=> Validation Accuracy did not improve
+191    loss:0.7854750980436802 2.0408748547661113
+=> Validation Accuracy did not improve
+192    loss:0.7852103647589683 2.0429685389931826
+=> Validation Accuracy did not improve
+193    loss:0.7861029329895973 2.0375263034341167
+=> Validation Accuracy did not improve
+194    loss:0.7851940084993839 2.0395636590406854
+=> Validation Accuracy did not improve
+195    loss:0.7849088259041309 2.0372070494820087
+=> Validation Accuracy did not improve
+196    loss:0.7850001305341721 2.0445522458795558
+=> Validation Accuracy did not improve
+197    loss:0.7851296216249466 2.039684810740425
+=> Validation Accuracy did not improve
+198    loss:0.7859043157100678 2.0389749927316756
+=> Validation Accuracy did not improve
+199    loss:0.78495211571455 2.040166383121103
+=> Validation Accuracy did not improve
+200    loss:0.7860014598071575 2.0407859647975246
+=> Validation Accuracy did not improve
+201    loss:0.7846749486029149 2.042056661238645
+=> Validation Accuracy did not improve
+202    loss:0.7852896821498871 2.0436599821967874
+=> Validation Accuracy did not improve
+203    loss:0.7850889936089516 2.0384160567094933
+=> Validation Accuracy did not improve
+204    loss:0.7836092682182789 2.0449459336020728
+=> Validation Accuracy did not improve
+205    loss:0.7861283977329732 2.045002818107605
+=> Validation Accuracy did not improve
+206    loss:0.7852908191084862 2.0445751155761474
+=> Validation Accuracy did not improve
+207    loss:0.7846641024947166 2.0427488407349204
+=> Validation Accuracy did not improve
+208    loss:0.7842709355056287 2.0421535133678006
+=> Validation Accuracy did not improve
+209    loss:0.7848297771811485 2.04917033662133
+=> Validation Accuracy did not improve
+210    loss:0.7843965590000153 2.045025798726209
+=> Validation Accuracy did not improve
+211    loss:0.7845090493559838 2.0451068782551403
+=> Validation Accuracy did not improve
+212    loss:0.7835042087733746 2.042090199210427
+=> Validation Accuracy did not improve
+213    loss:0.7840805430710316 2.0428698668505416
+=> Validation Accuracy did not improve
+214    loss:0.7850027069449425 2.049454618902767
+=> Validation Accuracy did not improve
+215    loss:0.7830237312614918 2.044760980708076
+=> Validation Accuracy did not improve
+216    loss:0.7841817964613438 2.0444909149312718
+=> Validation Accuracy did not improve
+217    loss:0.7850890024006367 2.0472827174446797
+=> Validation Accuracy did not improve
+218    loss:0.7843392619490623 2.0449385062895993
+=> Validation Accuracy did not improve
+219    loss:0.7846831785142422 2.0452798005731347
+=> Validation Accuracy did not improve
+220    loss:0.7844317349791528 2.0481440899843837
+=> Validation Accuracy did not improve
+221    loss:0.7837594470381737 2.0471617965137257
+=> Validation Accuracy did not improve
+222    loss:0.7851865822076798 2.048706481800997
+=> Validation Accuracy did not improve
+223    loss:0.7855502633750439 2.047375809700094
+=> Validation Accuracy did not improve
+224    loss:0.7847830983996391 2.0470350030909246
+=> Validation Accuracy did not improve
+225    loss:0.7840775613486767 2.046640319620224
+=> Validation Accuracy did not improve
+226    loss:0.7844076165556908 2.052535837346857
+=> Validation Accuracy did not improve
+227    loss:0.7846860539913177 2.0474419332443072
+=> Validation Accuracy did not improve
+228    loss:0.7839343520998955 2.050618411385439
+=> Validation Accuracy did not improve
+229    loss:0.7845572790503502 2.048430856536416
+=> Validation Accuracy did not improve
+230    loss:0.7851846988499165 2.0496607279395036
+=> Validation Accuracy did not improve
+231    loss:0.7832621628046036 2.0517390080314266
+=> Validation Accuracy did not improve
+232    loss:0.7837864053249359 2.0507640424259206
+=> Validation Accuracy did not improve
+233    loss:0.7838978685438633 2.0483430375389875
+=> Validation Accuracy did not improve
+234    loss:0.783917707502842 2.050769862644175
+=> Validation Accuracy did not improve
+235    loss:0.7835065719485284 2.051545747461166
+=> Validation Accuracy did not improve
+236    loss:0.7830930687487125 2.04915053321716
+=> Validation Accuracy did not improve
+237    loss:0.7842241796851158 2.05210942253072
+=> Validation Accuracy did not improve
+238    loss:0.7836759378015995 2.0494955096015315
+=> Validation Accuracy did not improve
+239    loss:0.7831651355326176 2.0508989325181686
+=> Validation Accuracy did not improve
+240    loss:0.7843546621501446 2.052243431621694
+=> Validation Accuracy did not improve
+241    loss:0.7845899598300458 2.052112908286844
+=> Validation Accuracy did not improve
+242    loss:0.7821671879291534 2.055833310366952
+=> Validation Accuracy did not improve
+243    loss:0.7848910827934742 2.0513809747236933
+=> Validation Accuracy did not improve
+244    loss:0.7837141159176827 2.0568643974110405
+=> Validation Accuracy did not improve
+245    loss:0.7846279826760292 2.0534596309304876
+=> Validation Accuracy did not improve
+246    loss:0.7837911900877953 2.055468676561978
+=> Validation Accuracy did not improve
+247    loss:0.7836108648777008 2.0572316627451444
+=> Validation Accuracy did not improve
+248    loss:0.7843466241657734 2.0507622224124358
+=> Validation Accuracy did not improve
+249    loss:0.7825598292052746 2.0545098175977
+=> Validation Accuracy did not improve
+250    loss:0.7836416451632977 2.0548796239383718
+=> Validation Accuracy did not improve
+251    loss:0.783008831590414 2.054343720170903
+=> Validation Accuracy did not improve
+252    loss:0.7834252341091633 2.0556114172552995
+=> Validation Accuracy did not improve
+253    loss:0.7835757443308831 2.0561787757006558
+=> Validation Accuracy did not improve
+254    loss:0.7837116304039955 2.053286231137852
+=> Validation Accuracy did not improve
+255    loss:0.7830693244934083 2.055959932306871
+=> Validation Accuracy did not improve
+256    loss:0.7840824608504773 2.0552163901813527
+=> Validation Accuracy did not improve
+257    loss:0.7845336167514324 2.0557722312243865
+=> Validation Accuracy did not improve
+258    loss:0.7827873128652573 2.0541376704200704
+=> Validation Accuracy did not improve
+259    loss:0.7839354941248894 2.0568942628442284
+=> Validation Accuracy did not improve
+260    loss:0.7826035968959332 2.058388576150578
+=> Validation Accuracy did not improve
+261    loss:0.7831751111149788 2.060355657562215
+=> Validation Accuracy did not improve
+262    loss:0.7845965072512627 2.0593256045152795
+=> Validation Accuracy did not improve
+263    loss:0.7842455998063088 2.057396612065361
+=> Validation Accuracy did not improve
+264    loss:0.7835445547103882 2.0570865901396234
+=> Validation Accuracy did not improve
+265    loss:0.7818701513111591 2.0567838068314415
+=> Validation Accuracy did not improve
+266    loss:0.782919625788927 2.0600943890484897
+=> Validation Accuracy did not improve
+267    loss:0.7840972977876663 2.0565423334346096
+=> Validation Accuracy did not improve
+268    loss:0.7823054046928882 2.0588581307049103
+=> Validation Accuracy did not improve
+269    loss:0.7832158915698528 2.055781990449059
+=> Validation Accuracy did not improve
+270    loss:0.7839078192412854 2.0587837555829216
+=> Validation Accuracy did not improve
+271    loss:0.784831332564354 2.055718493971595
+=> Validation Accuracy did not improve
+272    loss:0.783173146545887 2.059173897625928
+=> Validation Accuracy did not improve
+273    loss:0.7826412755250931 2.0571019165018662
+=> Validation Accuracy did not improve
+274    loss:0.7836757557094097 2.0567821589383213
+=> Validation Accuracy did not improve
+275    loss:0.7834090049564839 2.058425464732124
+=> Validation Accuracy did not improve
+276    loss:0.78324049949646 2.0608420372009277
+=> Validation Accuracy did not improve
+277    loss:0.7828253692388535 2.059216553514654
+=> Validation Accuracy did not improve
+278    loss:0.7830240611732007 2.060605764389038
+=> Validation Accuracy did not improve
+279    loss:0.7837704539299012 2.060341036255984
+=> Validation Accuracy did not improve
+280    loss:0.7827844898402692 2.0602090033617886
+=> Validation Accuracy did not improve
+281    loss:0.7838146272301674 2.057755279668512
+=> Validation Accuracy did not improve
+282    loss:0.7836126655340195 2.060001375203464
+=> Validation Accuracy did not improve
+283    loss:0.7832101975381375 2.061160304967095
+=> Validation Accuracy did not improve
+284    loss:0.7835995018482208 2.0579837018793277
+=> Validation Accuracy did not improve
+285    loss:0.7839974024891854 2.0615291818577974
+=> Validation Accuracy did not improve
+286    loss:0.7826215459406376 2.06076328830923
+=> Validation Accuracy did not improve
+287    loss:0.7830774360895157 2.064026932665371
+=> Validation Accuracy did not improve
+288    loss:0.7830511201918126 2.0599106658588755
+=> Validation Accuracy did not improve
+289    loss:0.7820517872273922 2.060451088104656
+=> Validation Accuracy did not improve
+290    loss:0.7837509800493717 2.0576314792276067
+=> Validation Accuracy did not improve
+291    loss:0.784169037938118 2.0606437354164324
+=> Validation Accuracy did not improve
+292    loss:0.782864799797535 2.0619410952144763
+=> Validation Accuracy did not improve
+293    loss:0.7831987671554089 2.0613368303380546
+=> Validation Accuracy did not improve
+294    loss:0.7835494044423104 2.0627991094946223
+=> Validation Accuracy did not improve
+295    loss:0.7831258714199066 2.065719404960061
+=> Validation Accuracy did not improve
+296    loss:0.7830776318907738 2.0642849774284158
+=> Validation Accuracy did not improve
+297    loss:0.7828084537386895 2.059832678759162
+=> Validation Accuracy did not improve
+298    loss:0.7814970579743385 2.062088914096037
+=> Validation Accuracy did not improve
+299    loss:0.7830059851706028 2.062042375936865
+=> Validation Accuracy did not improve
+300    loss:0.7816757445037366 2.060684026881335
+=> Validation Accuracy did not improve
+301    loss:0.7838845697045327 2.062411426860381
+=> Validation Accuracy did not improve
+302    loss:0.7830289016664028 2.063866046023241
+=> Validation Accuracy did not improve
+303    loss:0.7818279002606869 2.0594253642036313
+=> Validation Accuracy did not improve
+304    loss:0.7816356641054154 2.0632944935783346
+=> Validation Accuracy did not improve
+305    loss:0.7823843936622144 2.0627880555423186
+=> Validation Accuracy did not improve
+306    loss:0.7829149048030377 2.0650098852932772
+=> Validation Accuracy did not improve
+307    loss:0.782783099859953 2.0615234088132723
+=> Validation Accuracy did not improve
+308    loss:0.7828474128246308 2.0628289475160484
+=> Validation Accuracy did not improve
+309    loss:0.782431703209877 2.062853929830745
+=> Validation Accuracy did not improve
+310    loss:0.782029469460249 2.0610344856180607
+=> Validation Accuracy did not improve
+311    loss:0.7820059627294541 2.06471726027402
+=> Validation Accuracy did not improve
+312    loss:0.7823365673422814 2.063144371471303
+=> Validation Accuracy did not improve
+313    loss:0.7821303014457226 2.065111908045682
+=> Validation Accuracy did not improve
+314    loss:0.7819389626383781 2.0650657345266903
+=> Validation Accuracy did not improve
+315    loss:0.7822011500597 2.065051129795013
+=> Validation Accuracy did not improve
+316    loss:0.7824037477374077 2.0655593113465742
+=> Validation Accuracy did not improve
+317    loss:0.7824724189937114 2.0629221373063356
+=> Validation Accuracy did not improve
+318    loss:0.7819237907230854 2.0666481141738076
+=> Validation Accuracy did not improve
+319    loss:0.782333308160305 2.0631139507905685
+=> Validation Accuracy did not improve
+320    loss:0.7822359889745713 2.066965259332708
+=> Validation Accuracy did not improve
+321    loss:0.7821415479481221 2.0674020510943816
+=> Validation Accuracy did not improve
+322    loss:0.782892933189869 2.0668798455580033
+=> Validation Accuracy did not improve
+323    loss:0.7821081291139126 2.0669206113101324
+=> Validation Accuracy did not improve
+324    loss:0.7819900006055832 2.0653903854084525
+=> Validation Accuracy did not improve
+325    loss:0.7835766384005547 2.0665758631446143
+=> Validation Accuracy did not improve
+326    loss:0.7826963147521019 2.0663398274763383
+=> Validation Accuracy did not improve
+327    loss:0.7821901355683804 2.0686283411189197
+=> Validation Accuracy did not improve
+328    loss:0.7825529007613659 2.06811962408178
+=> Validation Accuracy did not improve
+329    loss:0.7827670289576054 2.0661019877316478
+=> Validation Accuracy did not improve
+330    loss:0.7819040405750275 2.0674268867880263
+=> Validation Accuracy did not improve
+331    loss:0.7823597703874111 2.0657819547755194
+=> Validation Accuracy did not improve
+332    loss:0.7822507810592652 2.0664559755733305
+=> Validation Accuracy did not improve
+333    loss:0.783055786639452 2.0670450919452197
+=> Validation Accuracy did not improve
+334    loss:0.7818596775829793 2.06680264192469
+=> Validation Accuracy did not improve
+335    loss:0.7821066461503506 2.06474337348326
+=> Validation Accuracy did not improve
+336    loss:0.7820108777284622 2.068954115882914
+=> Validation Accuracy did not improve
+337    loss:0.7826557961106301 2.0661960923097986
+=> Validation Accuracy did not improve
+338    loss:0.7818531362712383 2.066751652860386
+=> Validation Accuracy did not improve
+339    loss:0.7825149548053741 2.067801698643893
+=> Validation Accuracy did not improve
+340    loss:0.78273742467165 2.0676904967761933
+=> Validation Accuracy did not improve
+341    loss:0.78170295342803 2.068551766681161
+=> Validation Accuracy did not improve
+342    loss:0.7818139769136906 2.071720326648039
+=> Validation Accuracy did not improve
+343    loss:0.7829848363995552 2.066489581755776
+=> Validation Accuracy did not improve
+344    loss:0.7823968063294888 2.066467841041279
+=> Validation Accuracy did not improve
+345    loss:0.7817137929797173 2.066866609501966
+=> Validation Accuracy did not improve
+346    loss:0.7818891867995262 2.0680015922230193
+=> Validation Accuracy did not improve
+347    loss:0.780328299254179 2.066567108592885
+=> Validation Accuracy did not improve
+348    loss:0.7818278880417348 2.0704411210860796
+=> Validation Accuracy did not improve
+349    loss:0.7827535937726497 2.0708330895173996
