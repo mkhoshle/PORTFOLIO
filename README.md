@@ -7,6 +7,6 @@ This repository contains some of my projects in Python and R. They vary in subje
 The philosophy behind this project is to find ways that governments can benefit from to involve
 people in accelerating energy transition and taking advantage of sustainable energy
 resources. In fact, people play an important role besides state-of-the-art technologies and
-business boosters. How could we get these insights? I used NlP to answer this question.
+business boosters. How could we get these insights? I used NLP to answer this question.
 
 
