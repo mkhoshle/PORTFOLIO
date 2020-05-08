@@ -18,7 +18,7 @@ Supplementary material (scripts and documentation) for the paper Parallel Perfor
 ### [Molecular Counting & Single Molecule Localization Microscopy in Living Cells Using Deep-Learning](https://github.com/mkhoshle/PORTFOLIO/tree/master/Molecular%20Counting)
 In this project, I employed a deep convolutional neural network to quantify the number of particles in a region of interest. I implemented a pre-trained neural network and parallelized the model on GPU. The deep convolutional neural network was able to overcome important theoretical challenges arises from the complex photo-physics of fluorescent molecules and gain acceptable accuracy up to a density of 6 [emitter/m2].
 
-<img src="https://github.com/mkhoshle/PORTFOLIO/blob/master/Molecular-Counting/output.png" width="800" />
+<img src="https://github.com/mkhoshle/PORTFOLIO/blob/master/Molecular-Counting/output.png"/>
 
 ### [Bayesian Nonparametric Approach for Reliable Molecular Counting in Living Cells](https://github.com/mkhoshle/PORTFOLIO/tree/master/Counting-Bayesian-statistics)
 In this project, I employed stochastic models (Monte Carlo methods, Hidden Markov Models) for parameter learning from the data with application to physical and biological sciences. I built a Bayesian non-parametric model for counting number of molecules on top of the cell by analyzing images from super-resolution microscopy. 
@@ -28,7 +28,7 @@ SMLM is used to visualize small biological structures. In SMLM, all proteins are
 ### [Clinical Trial Data](https://github.com/mkhoshle/PORTFOLIO/tree/master/Clinical_trial_data)
 A researcher needs your statistical expertise to evaluate an intervention. The six-month intervention was to give subjects a special exercise plan. The researcher randomized 2,500 people to the treatment group (which receives the intervention) and another 2,500 to the control group (does not receive the intervention).  The physician wishes to evaluate the subjects’ health outcomes (weight and self-rated health) before the start of the intervention and immediately after the intervention. The physician wants to know whether the new exercise plan will affect one’s overall health (measured by change in weight and self-rated health) differently for those receiving the new exercise plan versus those not receiving the exercise plan.
 
-<img src="https://github.com/mkhoshle/PORTFOLIO/blob/master/Clinical_trial_data/output_56_0.png" width="800" />
+<img src="https://github.com/mkhoshle/PORTFOLIO/blob/master/Clinical_trial_data/output_56_0.png" />
 
 ### [Data Engineering project](https://github.com/mkhoshle/Consumer-Complaints)
 The federal government provides a way for consumers to file complaints against companies regarding different financial products, such as payment problems with a credit card or debt collection tactics. This challenge will be about identifying the number of complaints filed and how they're spread across different companies. For this challenge, we want to know for each financial product and year, the total number of complaints, number of companies receiving a complaint, and the highest percentage of complaints directed at a single company.
