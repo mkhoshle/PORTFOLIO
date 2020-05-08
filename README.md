@@ -8,9 +8,9 @@ people in accelerating energy transition and taking advantage of sustainable ene
 resources. In fact, people play an important role besides state-of-the-art technologies and
 business boosters. How could we get these insights? I used NLP to answer this question.
 
-<img src="https://github.com/mkhoshle/AI-for-Energy/blob/master/Screen%20Shot%202020-05-08%20at%205.41.09%20PM.png"/>
+<img src="1.png"/>
 
-<img src="https://github.com/mkhoshle/AI-for-Energy/blob/master/Picture1.png"/>
+<img src="2.png"/>
 
 
 ### [Parallel Analysis of Molecular Dynamic Trajectories](https://github.com/mkhoshle/paper-hpc-py-parallel-mdanalysis)
