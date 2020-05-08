@@ -7,7 +7,7 @@ The philosophy behind this project is to find ways that governments can benefit 
 people in accelerating energy transition and taking advantage of sustainable energy
 resources. In fact, people play an important role besides state-of-the-art technologies and
 business boosters. How could we get these insights? I used NLP to answer this question.
-![out](https://mkhoshle.github.io/PORTFOLIO.github.io/AI-for-Energy/ScattertextRankData12_India.html)
+![out](https://mkhoshle.github.io/AI-for-Energy/ScattertextRankData12_India.html)
 
 ### [Parallel Analysis of Molecular Dynamic Trajectories](https://github.com/mkhoshle/paper-hpc-py-parallel-mdanalysis)
 Paper draft investigating approaches to increase the performance of analysing MD trajectories with Python on HPC resources. 
