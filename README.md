@@ -30,4 +30,7 @@ A researcher needs your statistical expertise to evaluate an intervention. The s
 
 <img src="https://github.com/mkhoshle/PORTFOLIO/blob/master/Clinical_trial_data/output_56_0.png" width="800" />
 
+### [Data Engineering project](https://github.com/mkhoshle/Consumer-Complaints)
+The federal government provides a way for consumers to file complaints against companies regarding different financial products, such as payment problems with a credit card or debt collection tactics. This challenge will be about identifying the number of complaints filed and how they're spread across different companies. For this challenge, we want to know for each financial product and year, the total number of complaints, number of companies receiving a complaint, and the highest percentage of complaints directed at a single company.
+
 
