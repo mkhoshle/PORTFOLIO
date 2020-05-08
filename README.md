@@ -25,5 +25,6 @@ SMLM is used to visualize small biological structures. In SMLM, all proteins are
 
 ### [Clinical Trial Data](https://github.com/mkhoshle/PORTFOLIO.github.io/tree/master/Clinical_trial_data)
 A researcher needs your statistical expertise to evaluate an intervention. The six-month intervention was to give subjects a special exercise plan. The researcher randomized 2,500 people to the treatment group (which receives the intervention) and another 2,500 to the control group (does not receive the intervention).  The physician wishes to evaluate the subjects’ health outcomes (weight and self-rated health) before the start of the intervention and immediately after the intervention. The physician wants to know whether the new exercise plan will affect one’s overall health (measured by change in weight and self-rated health) differently for those receiving the new exercise plan versus those not receiving the exercise plan.
+![output](https://github.com/mkhoshle/PORTFOLIO.github.io/blob/master/Clinical_trial_data/output_56_0.png)
 
 
