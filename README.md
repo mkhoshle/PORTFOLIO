@@ -21,7 +21,7 @@ Paper draft investigating approaches to increase the performance of analysing MD
 #### [Supplement Information](https://github.com/mkhoshle/supplement-hpc-py-parallel-mdanalysis)
 Supplementary material (scripts and documentation) for the paper Parallel Performance of Molecular Dynamics Trajectory Analysis, available at https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5789.
 
-### [Molecular Counting & Single Molecule Localization Microscopy in Living Cells Using Deep-Learning](https://github.com/mkhoshle/PORTFOLIO/tree/master/Molecular%20Counting)
+### [Molecular Counting & Single Molecule Localization Microscopy in Living Cells Using Deep-Learning](https://github.com/mkhoshle/PORTFOLIO/tree/master/Molecular-Counting)
 In this project, I employed a deep convolutional neural network to quantify the number of particles in a region of interest. I implemented a pre-trained neural network and parallelized the model on GPU. The deep convolutional neural network was able to overcome important theoretical challenges arises from the complex photo-physics of fluorescent molecules and gain acceptable accuracy up to a density of 6 [emitter/m2].
 
 <img src="Molecular-Counting/output.png"/>
