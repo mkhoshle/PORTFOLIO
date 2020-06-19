@@ -1,11 +1,18 @@
 # About This Project
-In this project, I employed stochastic models (Monte Carlo methods, Hidden Markov Models) for parameter learning from the data with application to 
-physical and biological sciences. I built a Bayesian non-parametric model for counting number of molecules on top of the cell by analyzing images from 
-super-resolution microscopy.
-
-SMLM is used to visualize small biological structures. In SMLM, all proteins are labeled with photo activatable fluorescent proteins (PA-FPs) and are 
-expressed in their native amount. When they are exposed to light they photo-convert and emit lights stochatically through time. Then by repeatedly 
-imaging a small random subset of fluorescent molecules in the sample, images with sparse support can be created and thereby allows extremely high 
-accuracy in determining the locations of the molecules. I first built a Bayesian nonparametric model for this purpose. The method worked fine for high 
-signal to noise ratios cases. However, the method was underestimating the number of molecules under challenging signal-to-noise conditions and high 
-emitter densities.
+Single molecule localization microscopy (SMLM) is widely used to determine the
+organization and stoichiometry of protein complexes. The information obtained
+by counting methods is especially relevant in unraveling complex multi-protein
+processes. An important theoretical challenge arises from the fact that single
+molecules are only indirectly monitored through photons emitted from their
+fluorescent labels that, themselves, can exhibit complex photo-physics. Here,
+we introduce a specialized software for quantitative analysis of SMLM data for
+biological interpretations. Our method uses novel tools from Bayesian nonparametric
+that take fluorophore blinking kinetics directly into account and
+are capable of estimating the number of particles, their state trajectory, the
+photo-kinetic rates and emission parameters. We further quantify the number
+of clusters in a region of interest (ROI) and histogram of the number of proteins
+localized in small clusters without the need to spatially resolve them. To do so,
+we use the number of photon arrivals collected from these 
+fluorescent proteins.
+We also benchmark our approach on synthetic data to draw conclusions on
+the spatial relation of T-cell receptors (TCRs) on T-cell microvilli.
