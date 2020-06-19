@@ -1,3 +1,4 @@
+# About This Project
 In this project, I employed stochastic models (Monte Carlo methods, Hidden Markov Models) for parameter learning from the data with application to 
 physical and biological sciences. I built a Bayesian non-parametric model for counting number of molecules on top of the cell by analyzing images from 
 super-resolution microscopy.
