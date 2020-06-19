@@ -15,4 +15,4 @@ challenge arises from the complex photo-physics of single molecules. We validate
 the code by super-resolution image reconstruction of simulated data from [here](https://github.com/EliasNehme/Deep-STORM).
 
 ## Report
-Report for this project can be found [here](). 
+Report for this project can be found [here](https://github.com/mkhoshle/PORTFOLIO/blob/master/Molecular-Counting/main-report.pdf). 
