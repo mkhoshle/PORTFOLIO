@@ -4,10 +4,10 @@
 
 This repository contains some of my projects in Python and R. They vary in subject and scope and cover Bayesian statistics, data engineering, Deep learning, tatistical analysis, machine learning, data acquisition, data cleaning, data exploration, and data visuzalition. If you have any questions or feedback about any of my projects (data sources, inspiration, critiques) please contact me at mahzadkhoshlessan@gmail.com.
 
-### [Computer pointer controller](https://github.com/mkhoshle/IntelEdgeAI-Projects/blob/master/Computer-Pointer-Controller/starter/README.md) 
+### [Computer pointer controller (OpenVino Toolkit)](https://github.com/mkhoshle/IntelEdgeAI-Projects/blob/master/Computer-Pointer-Controller/starter/README.md) 
 In this project, I use a gaze detection model to control the mouse pointer of my computer. I use the Gaze Estimation model to estimate the gaze of the user's eyes and change the mouse pointer position accordingly. This project will require running multiple models in the same machine and coordinating the flow of data between those models.
 
-### [People Counter](https://github.com/mkhoshle/IntelEdgeAI-Projects/tree/master/People-Counter)
+### [People Counter (OpenVino Toolkit)](https://github.com/mkhoshle/IntelEdgeAI-Projects/tree/master/People-Counter)
 The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count.
 
 ### [AI for Energy: Using NLP to Find Barriers to Humanizing Energy Transition](https://github.com/mkhoshle/AI-for-Energy)
