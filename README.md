@@ -15,6 +15,7 @@ The people counter application will demonstrate how to create a smart video IoT 
 ### [Build a Smart Queue APP for Three Different Scenarios (Choosing the right hardware)](https://github.com/mkhoshle/IntelEdgeAI-Projects/tree/master/Smart-Queuing-System)
 There are three scenarios which involve people in queues, but each scenario will require different hardware. Thus, in this project I first determine which hardware might work for each scenario—and then explain my initial choice in a proposal document ([here](https://github.com/mkhoshle/IntelEdgeAI-Projects/blob/master/Smart-Queuing-System/choose-the-right-hardware-proposal-template.pdf)). Then, after I've built and tested my application on each hardware device for all three scenarios, I'll review the results and validate or update my initial proposed choices in the proposal document.
 
+<img src="benchmark.png"/>
 
 ### [AI for Energy: Using NLP to Find Barriers to Humanizing Energy Transition](https://github.com/mkhoshle/AI-for-Energy)
 The philosophy behind this project is to find ways that governments can benefit from to involve
