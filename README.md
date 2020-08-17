@@ -12,6 +12,8 @@ In this project, I use a gaze detection model to control the mouse pointer of my
 ### [Deploy a People Counter App at the Edge](https://github.com/mkhoshle/IntelEdgeAI-Projects/tree/master/People-Counter)
 The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count.
 
+<img src="3.png"/>
+
 ### [Build a Smart Queue APP for Three Different Scenarios (Choosing the right hardware)](https://github.com/mkhoshle/IntelEdgeAI-Projects/tree/master/Smart-Queuing-System)
 There are three scenarios which involve people in queues, but each scenario will require different hardware. Thus, in this project I first determine which hardware might work for each scenario—and then explain my initial choice in a proposal document ([here](https://github.com/mkhoshle/IntelEdgeAI-Projects/blob/master/Smart-Queuing-System/choose-the-right-hardware-proposal-template.pdf)). Then, after I've built and tested my application on each hardware device for all three scenarios, I'll review the results and validate or update my initial proposed choices in the proposal document.
 
