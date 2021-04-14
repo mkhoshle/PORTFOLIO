@@ -4,6 +4,9 @@
 
 This repository contains some of my projects in Python and R. They vary in subject and scope and cover Bayesian statistics, data engineering, Deep learning, tatistical analysis, machine learning, data acquisition, data cleaning, data exploration, and data visuzalition. If you have any questions or feedback about any of my projects (data sources, inspiration, critiques) please contact me at mahzadkhoshlessan@gmail.com.
 
+### [Minesweeper](https://github.com/mkhoshle/PORTFOLIO/tree/master/minesweeper)
+In this project, I wrote an AI to play Minesweeper. More about Mineseeper can be found [here](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
+
 ### [Computer Pointer Controller (OpenVino Toolkit)](https://github.com/mkhoshle/IntelEdgeAI-Projects/blob/master/Computer-Pointer-Controller/starter/README.md) 
 In this project, I use a gaze detection model to control the mouse pointer of my computer. I use the Gaze Estimation model to estimate the gaze of the user's eyes and change the mouse pointer position accordingly. This project will require running multiple models in the same machine and coordinating the flow of data between those models.
 
